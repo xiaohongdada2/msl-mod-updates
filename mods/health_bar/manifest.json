@@ -1,6 +1,6 @@
-﻿{
+{
     "Version":  "1.0.0",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada/msl-mod-updates/main/mods/health_bar/health_bar.sml",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/health_bar/health_bar.sml",
     "Sha256":  "b855e87657c18280d1fbfe2d2cf1818d94fd375bb0e1e8c93b6e6cb4d1291872",
     "Notes":  "初始发布：生命条-复刻兼容版 1.0.0"
 }
