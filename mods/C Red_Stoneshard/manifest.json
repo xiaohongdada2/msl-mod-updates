@@ -1,6 +1,6 @@
 {
-  "Version": "1.4.0.1",
+  "Version": "1.4.0.2",
   "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/C%20Red_Stoneshard/C%20Red_Stoneshard.sml",
-  "Sha256": "cb2c3cf64a702f5966a26c231b3c72eb9195a744e9afac60ce23735626eb710e",
-  "Notes": "声明式快速替换迁移：保留表格与 GML 的即时执行顺序，接入 MSL 0.13.4.0 旧 helper 捕获与一键远端更新。"
+  "Sha256": "2aca494af379fa213010c3b6ff846ba62ca5e476b5153dcefc0cd090dd8c6968",
+  "Notes": "1.4.0.2：需要 MSL 0.13.5.2；玩家失误冷却、敌方 MP 与失误冷却改为三个局部代码块，可与 Bule_Stoneshard 0.2.22.11 的技能释放 hook 安全共存。"
 }

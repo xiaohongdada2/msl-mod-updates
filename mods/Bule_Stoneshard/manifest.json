@@ -1,6 +1,6 @@
 {
-  "Version": "0.2.22.10",
+  "Version": "0.2.22.11",
   "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Bule_Stoneshard/Bule_Stoneshard.sml",
-  "Sha256": "cac52b3d4be1cb6491f87de5f6bddfa2f0e860da7c611c3a5ca22d2979992948",
-  "Notes": "0.2.22.10：需要 MSL 0.13.5.2；存档预览、初始 SP、背包弹夹数量和敌人死亡 hook 改为局部声明，可与 A TheCosmeticMod 3.7.2.1 安全组合。"
+  "Sha256": "d73cc1a391cadac0c779e59d3a07b3b73c61e7830a43b830c8b5cc7b5b8edad8",
+  "Notes": "0.2.22.11：需要 MSL 0.13.5.2；玩家与敌方技能释放 hook 改为可组合局部插入，可与 C Red_Stoneshard 1.4.0.2 对同一技能脚本的公式修改安全共存。"
 }
