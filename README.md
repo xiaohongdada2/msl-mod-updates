@@ -31,7 +31,7 @@ mods/<Mod包名>/manifest.json
 | `OrigamiWhiteSocks.sml` | 白袜折纸约稿 | `1.1.2` |
 | `RanXiaYi.sml` | 绯月精灵-染霞衣 | `0.3.5.2` |
 | `Ruby.sml` | RWBY:露比(血兆版本) | `1.11.2.1` |
-| `Shadow_of_Another_World.sml` | 异界之影 | `0.1.0.1` |
+| `Shadow_of_Another_World.sml` | 异界之影 | `0.1.0.2` |
 | `Shire.sml` | 黑雀社德鲁伊-夏尔 | `1.4.8.3` |
 | `The Gift For You.sml` | 雪嫣的馈赠喵~ | `4.2.4.0` |
 | `tracker.sml` | 黑月君临-追踪者(血兆版本) | `1.4.1.0` |

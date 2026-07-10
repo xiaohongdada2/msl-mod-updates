@@ -1,6 +1,6 @@
 {
-    "Version":  "0.1.0.1",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Shadow_of_Another_World/Shadow_of_Another_World.sml",
-    "Sha256":  "278d7ffd0fb81226d160cce08d8fb96532a35513a4db3137e30cd7e1bf2c7ac0",
-    "Notes":  "初始发布：异界之影 0.1.0.1"
+  "Version": "0.1.0.2",
+  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Shadow_of_Another_World/Shadow_of_Another_World.sml",
+  "Sha256": "f62906b2981084f061cf1663d024008d2ecf46c07ae37f27428193f7c82a74fd",
+  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，保留 SR-25、短吻鳄发射器、复合燃烧弹与 Bule 前置旧顺序。"
 }
