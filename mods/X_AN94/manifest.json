@@ -1,0 +1,6 @@
+{
+  "Version": "1.0.0.1",
+  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/X_AN94/X_AN94.sml",
+  "Sha256": "df40a248706e9e5d96adc0c22db0d6d5f88cfba15081d248467190787ff0b80e",
+  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，完整记录电感 Buff、三件混合工具、ToolExpansion、交易 hook 与贴图资源。"
+}
