@@ -1,6 +1,6 @@
 {
-    "Version":  "1.1.1",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/OrigamiWhiteSocks/OrigamiWhiteSocks.sml",
-    "Sha256":  "30ff26b8714500314478c8896b596f76cf0d116a6f4f589605be900e00dc364c",
-    "Notes":  "初始发布：白袜折纸约稿 1.1.1"
+  "Version": "1.1.2",
+  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/OrigamiWhiteSocks/OrigamiWhiteSocks.sml",
+  "Sha256": "ef690eef0c9d9a5d7a05a25cca9aadc8d670363d97f2f6abec8f5673c0850be8",
+  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，保留装备、AN94、子弹袋与 Hover 旧行为。"
 }

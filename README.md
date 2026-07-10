@@ -28,7 +28,7 @@ mods/<Mod包名>/manifest.json
 | `HolyDiagonal.sml` | Holy Diagonal | `2.0.0.0` |
 | `LinYuXia.sml` | 明日方舟-林雨霞 | `0.1.0.4` |
 | `Origami.sml` | 可爱的雪嫣酱们(血兆版本) | `1.2.0.1` |
-| `OrigamiWhiteSocks.sml` | 白袜折纸约稿 | `1.1.1` |
+| `OrigamiWhiteSocks.sml` | 白袜折纸约稿 | `1.1.2` |
 | `RanXiaYi.sml` | 绯月精灵-染霞衣 | `0.3.4.2` |
 | `Ruby.sml` | RWBY:露比(血兆版本) | `1.11.1.0` |
 | `Shadow_of_Another_World.sml` | 异界之影 | `0.1.0.1` |
