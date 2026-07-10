@@ -37,4 +37,4 @@ mods/<Mod包名>/manifest.json
 | `tracker.sml` | 黑月君临-追踪者(血兆版本) | `1.4.1.1` |
 | `UI_Plus.sml` | UI+汉化版 v0.9.4.21+ | `2.3.0` |
 | `velin_and_celestines_weapon_package.sml` | 维林族与天羽族定制武器包(血兆版本) | `1.2.0.1` |
-| `Z-DevTools.sml` | 雪嫣酱控制台 | `2.4.0.0` |
+| `Z-DevTools.sml` | 雪嫣酱控制台 | `2.4.0.2` |

@@ -1,6 +1,6 @@
 {
-    "Version":  "2.4.0.0",
+    "Version":  "2.4.0.2",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Z-DevTools/Z-DevTools.sml",
-    "Sha256":  "e24edd693885d59b35075b3df74fa777b8c13e82d8efbbbca15c1b579f26baee",
-    "Notes":  "初始发布：雪嫣酱控制台 2.4.0.0"
+    "Sha256":  "c4f061f42048cb8327f136c12549c10b6bbf9f31ab159ef9a9d81df9331641c1",
+    "Notes":  "声明式快速替换迁移：接入 MSL 0.13.5.1，完整记录控制台对象、命令函数、原版脚本替换与历史贴图。"
 }
