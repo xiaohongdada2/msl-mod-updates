@@ -1,6 +1,6 @@
 {
-    "Version":  "4.2.4.0",
+    "Version":  "4.2.4.1",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/The%20Gift%20For%20You/The%20Gift%20For%20You.sml",
-    "Sha256":  "3e66ba8b223c5b67ea2cecf719b3ca61bca8db707b97a95935cd1b6275dc0d19",
-    "Notes":  "初始发布：雪嫣的馈赠喵~ 4.2.4.0"
+    "Sha256":  "fc82825fb8d9d25158628e98384fb9147860ede7e967597e99af0f38879ed4d7",
+    "Notes":  "声明式快速替换迁移：接入 MSL 0.13.5.1，并将既有房间实例坐标与图像修改转换为可重放的 RoomCC 代码写入。"
 }
