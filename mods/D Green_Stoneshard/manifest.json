@@ -1,6 +1,6 @@
 {
-    "Version":  "0.1.2.2",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/D%20Green_Stoneshard/D%20Green_Stoneshard.sml",
-    "Sha256":  "9e6e08590f95a0505cef3ff84d57ed06bd09b820f952c03577c6d7c11914d652",
-    "Notes":  "初始发布：绿色晶石 0.1.2.2"
+  "Version": "0.1.2.3",
+  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/D%20Green_Stoneshard/D%20Green_Stoneshard.sml",
+  "Sha256": "ceddc3931b858610144440051ab26f5b479a9f3dbcb67ea9dc14d79d77c08969",
+  "Notes": "声明式快速替换迁移：保留 Bule 前置加载顺序，接入 MSL 0.13.4.0 旧 helper 捕获与一键远端更新。"
 }
