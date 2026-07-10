@@ -22,7 +22,7 @@ mods/<Mod包名>/manifest.json
 | `Daphne.sml` | 达芙妮(哈基蜗)(血兆版本) | `1.1.1.1` |
 | `E WuweiZhanshi.sml` | 无畏战士 | `0.1.0.1` |
 | `Expanded Enemy Inspection 1.2.2.sml` | 详细观察面板ExpandedEnemyInspection | `1.2.2` |
-| `Falyn.sml` | 流放勇士-法林(血兆版本) | `1.3.0.0` |
+| `Falyn.sml` | 流放勇士-法林(血兆版本) | `1.3.0.1` |
 | `HardMode.sml` | 困难模式 | `0.1.0.0` |
 | `health_bar.sml` | 生命条-复刻兼容版 | `1.0.0` |
 | `HolyDiagonal.sml` | Holy Diagonal | `2.0.0.0` |
