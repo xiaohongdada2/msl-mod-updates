@@ -1,6 +1,6 @@
 {
-    "Version":  "0.2.22.6",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Bule_Stoneshard/Bule_Stoneshard.sml",
-    "Sha256":  "c95f53d9d899092569838dd6d77ca29f5c52b738641e32823040ae2d7e4b80dc",
-    "Notes":  "初始发布：蓝色晶石(血兆版本) 0.2.22.6"
+  "Version": "0.2.22.9",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/bule-stoneshard-v0.2.22.9/Bule_Stoneshard.sml",
+  "Sha256": "28321bbd898cdeeb954481eabe4ebd781dd3ba05097d5b432a25a9cef86a6e84",
+  "Notes": "声明式快速替换迁移：保留 Bule 前置库即时加载语义，接入 MSL 0.13.4.0 旧 helper 捕获与一键远端更新；大包通过固定版本 GitHub Release 资产分发。"
 }

@@ -9,14 +9,14 @@ mods/<Mod包名>/<Mod包名>.sml
 mods/<Mod包名>/manifest.json
 ```
 
-更新时重新生成对应目录里的 `.sml` 和 `manifest.json`，然后提交并推送。
+更新时重新生成对应目录里的 `.sml` 和 `manifest.json`，然后提交并推送。超过普通 Git 推送链路稳定承载范围的大包可以改用固定版本 GitHub Release 资产，manifest 的 `DownloadUrl` 指向该资产，并继续用 `Sha256` 校验下载内容。
 
 当前包含的 Mod：
 
 | sml 文件 | Mod 名 | 版本 |
 | --- | --- | --- |
-| `A TheCosmeticMod.sml` | 姿色紧实(血兆版本) | `3.7.1.0` |
-| `Bule_Stoneshard.sml` | 蓝色晶石(血兆版本) | `0.2.22.6` |
+| `A TheCosmeticMod.sml` | 姿色紧实(血兆版本) | `3.7.2.0` |
+| `Bule_Stoneshard.sml` | 蓝色晶石(血兆版本) | `0.2.22.9` |
 | `C Red_Stoneshard.sml` | 鸿色晶石 | `1.4.0.0` |
 | `D Green_Stoneshard.sml` | 绿色晶石 | `0.1.2.2` |
 | `Daphne.sml` | 达芙妮(哈基蜗)(血兆版本) | `1.1.0.0` |
