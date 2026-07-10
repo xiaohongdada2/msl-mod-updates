@@ -27,7 +27,7 @@ mods/<Mod包名>/manifest.json
 | `health_bar.sml` | 生命条-复刻兼容版 | `1.0.0` |
 | `HolyDiagonal.sml` | Holy Diagonal | `2.0.0.0` |
 | `LinYuXia.sml` | 明日方舟-林雨霞 | `0.1.0.4` |
-| `Origami.sml` | 可爱的雪嫣酱们(血兆版本) | `1.2.0.0` |
+| `Origami.sml` | 可爱的雪嫣酱们(血兆版本) | `1.2.0.1` |
 | `OrigamiWhiteSocks.sml` | 白袜折纸约稿 | `1.1.1` |
 | `RanXiaYi.sml` | 绯月精灵-染霞衣 | `0.3.4.2` |
 | `Ruby.sml` | RWBY:露比(血兆版本) | `1.11.1.0` |
