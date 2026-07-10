@@ -1,0 +1,6 @@
+{
+  "Version": "0.1.0.1",
+  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/E%20WuweiZhanshi/E%20WuweiZhanshi.sml",
+  "Sha256": "c2948ea12899ad6608c37abaa5b93329bb769124fbdee2a63c86e9d1c28e2d79",
+  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.0、稳定 GML 首尾锚点与一键远端更新。"
+}

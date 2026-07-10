@@ -20,6 +20,7 @@ mods/<Mod包名>/manifest.json
 | `C Red_Stoneshard.sml` | 鸿色晶石 | `1.4.0.1` |
 | `D Green_Stoneshard.sml` | 绿色晶石 | `0.1.2.3` |
 | `Daphne.sml` | 达芙妮(哈基蜗)(血兆版本) | `1.1.1.1` |
+| `E WuweiZhanshi.sml` | 无畏战士 | `0.1.0.1` |
 | `Expanded Enemy Inspection 1.2.2.sml` | 详细观察面板ExpandedEnemyInspection | `1.2.2` |
 | `Falyn.sml` | 流放勇士-法林(血兆版本) | `1.3.0.0` |
 | `HardMode.sml` | 困难模式 | `0.1.0.0` |
