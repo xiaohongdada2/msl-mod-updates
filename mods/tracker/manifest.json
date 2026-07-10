@@ -1,6 +1,6 @@
 {
-    "Version":  "1.4.1.0",
+    "Version":  "1.4.1.1",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/tracker/tracker.sml",
-    "Sha256":  "8ec19faff155b7cdf8fcf59270afb3679d6fe35d324b61a58ce09a616ca56465",
-    "Notes":  "初始发布：黑月君临-追踪者(血兆版本) 1.4.1.0"
+    "Sha256":  "8f63b4cd8d195d9ba3578486248a22a73755ad56322165fc242f1a632f69617e",
+    "Notes":  "声明式快速替换迁移：接入 MSL 0.13.5.1，完整记录追踪者角色、技能、物品与贴图资源。"
 }

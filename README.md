@@ -34,7 +34,7 @@ mods/<Mod包名>/manifest.json
 | `Shadow_of_Another_World.sml` | 异界之影 | `0.1.0.2` |
 | `Shire.sml` | 黑雀社德鲁伊-夏尔 | `1.4.8.5` |
 | `The Gift For You.sml` | 雪嫣的馈赠喵~ | `4.2.4.1` |
-| `tracker.sml` | 黑月君临-追踪者(血兆版本) | `1.4.1.0` |
+| `tracker.sml` | 黑月君临-追踪者(血兆版本) | `1.4.1.1` |
 | `UI_Plus.sml` | UI+汉化版 v0.9.4.21+ | `2.3.0` |
 | `velin_and_celestines_weapon_package.sml` | 维林族与天羽族定制武器包(血兆版本) | `1.2.0.0` |
 | `Z-DevTools.sml` | 雪嫣酱控制台 | `2.4.0.0` |
