@@ -1,6 +1,6 @@
 {
-    "Version":  "0.1.0.3",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/LinYuXia/LinYuXia.sml",
-    "Sha256":  "15c3632e3b29e7e67751ca7c0aac0167f0ba4667d57916e69ff23392acd4b45f",
-    "Notes":  "初始发布：明日方舟-林雨霞 0.1.0.3"
+  "Version": "0.1.0.4",
+  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/LinYuXia/LinYuXia.sml",
+  "Sha256": "40f82598055cba20f163c3884e3d8fe6b93ffdc74566c52c7393c16bf1e0880f",
+  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1、可组合角色注册与一键远端更新。"
 }
