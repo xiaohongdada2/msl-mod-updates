@@ -1,6 +1,6 @@
 {
-  "Version": "0.2.22.9",
+  "Version": "0.2.22.10",
   "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Bule_Stoneshard/Bule_Stoneshard.sml",
-  "Sha256": "28321bbd898cdeeb954481eabe4ebd781dd3ba05097d5b432a25a9cef86a6e84",
-  "Notes": "声明式快速替换迁移：保留 Bule 前置库即时加载语义，接入 MSL 0.13.4.0 旧 helper 捕获与一键远端更新；固定版本 Release 资产同时保留为发布备份。"
+  "Sha256": "cac52b3d4be1cb6491f87de5f6bddfa2f0e860da7c611c3a5ca22d2979992948",
+  "Notes": "0.2.22.10：需要 MSL 0.13.5.2；存档预览、初始 SP、背包弹夹数量和敌人死亡 hook 改为局部声明，可与 A TheCosmeticMod 3.7.2.1 安全组合。"
 }

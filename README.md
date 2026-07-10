@@ -15,8 +15,8 @@ mods/<Mod包名>/manifest.json
 
 | sml 文件 | Mod 名 | 版本 |
 | --- | --- | --- |
-| `A TheCosmeticMod.sml` | 姿色紧实(血兆版本) | `3.7.2.0` |
-| `Bule_Stoneshard.sml` | 蓝色晶石(血兆版本) | `0.2.22.9` |
+| `A TheCosmeticMod.sml` | 姿色紧实(血兆版本) | `3.7.2.1` |
+| `Bule_Stoneshard.sml` | 蓝色晶石(血兆版本) | `0.2.22.10` |
 | `C Red_Stoneshard.sml` | 鸿色晶石 | `1.4.0.1` |
 | `D Green_Stoneshard.sml` | 绿色晶石 | `0.1.2.3` |
 | `Daphne.sml` | 达芙妮(哈基蜗)(血兆版本) | `1.1.1.1` |
