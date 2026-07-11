@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.0.1",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Origami/Origami.sml",
-  "Sha256": "0f70c79f896401c28af927a1fbdf604a15426cef112ecc13419fed8d326a2ad4",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1、四角色可组合注册与一键远端更新。"
+    "Version":  "1.2.0.2",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Origami/Origami.sml",
+    "Sha256":  "6ea7f4b65d1cecf4430b39fce7631eb7107cddc89e2a6ab78f9a60f04dcf57a1",
+    "Notes":  "1.2.0.2：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
 }

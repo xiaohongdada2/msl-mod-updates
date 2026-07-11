@@ -1,6 +1,6 @@
 {
-  "Version": "0.1.0.4",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/LinYuXia/LinYuXia.sml",
-  "Sha256": "40f82598055cba20f163c3884e3d8fe6b93ffdc74566c52c7393c16bf1e0880f",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1、可组合角色注册与一键远端更新。"
+    "Version":  "0.1.0.5",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/LinYuXia/LinYuXia.sml",
+    "Sha256":  "3fe3645c94f421d21d77c6b3d20760bbc7c944d84c3162c4e8e4d07c3bb4ced8",
+    "Notes":  "0.1.0.5：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
 }

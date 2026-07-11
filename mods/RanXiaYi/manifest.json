@@ -1,6 +1,6 @@
 {
-  "Version": "0.3.5.2",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/RanXiaYi/RanXiaYi.sml",
-  "Sha256": "8d426175ecec960ae0b5a0a900b9402089c18fe8334644b2bb5a1fb482962071",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，保留角色、召唤、Hook、ExtraSpawn 与房间实例旧顺序。"
+    "Version":  "0.3.5.3",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/RanXiaYi/RanXiaYi.sml",
+    "Sha256":  "3dee0796ac1919ec64105114658d26d80ee14e5d9bc2d64f2048d3ffb6a96795",
+    "Notes":  "0.3.5.3：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
 }

@@ -1,6 +1,6 @@
 {
-  "Version": "0.2.22.11",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Bule_Stoneshard/Bule_Stoneshard.sml",
-  "Sha256": "d73cc1a391cadac0c779e59d3a07b3b73c61e7830a43b830c8b5cc7b5b8edad8",
-  "Notes": "0.2.22.11：需要 MSL 0.13.5.2；玩家与敌方技能释放 hook 改为可组合局部插入，可与 C Red_Stoneshard 1.4.0.2 对同一技能脚本的公式修改安全共存。"
+    "Version":  "0.2.22.15",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Bule_Stoneshard/Bule_Stoneshard.sml",
+    "Sha256":  "49d1dece5bce1c1a6a094a36e5ec3b8a5c35f7c1afb2cd20dc7791a02a9f331c",
+    "Notes":  "0.2.22.15：需要 MSL 0.13.6.3；设置菜单、玩家 Create 与敌群生成改为可组合局部声明，并完成 exact22 写盘复读。"
 }

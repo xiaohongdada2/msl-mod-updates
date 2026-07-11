@@ -1,6 +1,6 @@
 {
-  "Version": "1.4.8.5",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Shire/Shire.sml",
-  "Sha256": "cc83e2681a7b256ee547c32191acdf5632918925153b6e9e993c4c4620fe1572",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，保留 Shire 八层角色流程与 Bule 前置顺序，并清理无名孤立贴图。"
+    "Version":  "1.4.8.9",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Shire/Shire.sml",
+    "Sha256":  "f4a86f13104503e0c993bbad1d1f4f6d5237e1809784f2613f371677062b72d3",
+    "Notes":  "1.4.8.9：需要 MSL 0.13.6.3；光标交互修改缩小为单行局部声明，可与 UI_Plus 2.3.0 组合。"
 }

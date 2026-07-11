@@ -1,6 +1,6 @@
 {
-    "Version":  "1.2.0.1",
+    "Version":  "1.2.0.2",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/velin_and_celestines_weapon_package/velin_and_celestines_weapon_package.sml",
-    "Sha256":  "f4b8cd3f92a9e70fc36911e434dfe1c545a53bcbd59e47471c9fe16c75caa2bb",
-    "Notes":  "声明式快速替换迁移：接入 MSL 0.13.5.1，完整记录八件武器、混合物品事件与宝箱注入。"
+    "Sha256":  "668be90ccc683aabb521226dade4b0563b60310a940ad9e2e78776a499f3ed95",
+    "Notes":  "1.2.0.2：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
 }

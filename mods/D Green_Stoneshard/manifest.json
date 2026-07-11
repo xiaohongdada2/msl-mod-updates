@@ -1,6 +1,6 @@
 {
-  "Version": "0.1.2.3",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/D%20Green_Stoneshard/D%20Green_Stoneshard.sml",
-  "Sha256": "ceddc3931b858610144440051ab26f5b479a9f3dbcb67ea9dc14d79d77c08969",
-  "Notes": "声明式快速替换迁移：保留 Bule 前置加载顺序，接入 MSL 0.13.4.0 旧 helper 捕获与一键远端更新。"
+    "Version":  "0.1.2.4",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/D%20Green_Stoneshard/D%20Green_Stoneshard.sml",
+    "Sha256":  "e74ebe941e8a9d5de59e6935cc2d1147e2fe1dba7f0d9ef2b52fcd9e74ca5003",
+    "Notes":  "0.1.2.4：保留并承接 X_AN94 的兼容 ID、入口与资源；进入 exact22 正式包集。"
 }

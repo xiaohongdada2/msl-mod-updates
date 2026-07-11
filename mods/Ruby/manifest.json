@@ -1,6 +1,6 @@
 {
-  "Version": "1.11.2.1",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Ruby/Ruby.sml",
-  "Sha256": "cc7d7f5f9ddc87ed91d85a0e5bc26bc69e5e10c07ec5c2fbc36652a2612ad755",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，保留 Ruby 角色、武器、技能与 ExtraSpawn 顺序，并清理无名孤立贴图。"
+    "Version":  "1.11.2.2",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Ruby/Ruby.sml",
+    "Sha256":  "90c0c7fcb07bac8e87a2db756d01b176c309d0ffffb68351dc6f713db4a4c8bf",
+    "Notes":  "1.11.2.2：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
 }

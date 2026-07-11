@@ -1,6 +1,6 @@
 {
-  "Version": "1.3.0.1",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Falyn/Falyn.sml",
-  "Sha256": "feeda33c933b8c4bb6693595e2d0ac73b3b7298233964d505bbb6fa422af3d39",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.0、完整 Sprite 布局捕获与一键远端更新。"
+    "Version":  "1.3.0.3",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Falyn/Falyn.sml",
+    "Sha256":  "75fde79f6fb6d0c7a196c2485f777ccfb95a0fe8cd7ab2f87a0f1e0137b3eab9",
+    "Notes":  "1.3.0.3：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
 }

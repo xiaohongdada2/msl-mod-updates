@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.1.1",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Daphne/Daphne.sml",
-  "Sha256": "06c2951f4c083ceb4075fa9a796edfff394d689cf43f7931ea0df23e2b6083ef",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.0 Sprite 布局捕获、Bule 前置重放与一键远端更新。"
+    "Version":  "1.1.1.5",
+    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Daphne/Daphne.sml",
+    "Sha256":  "68cce0dbe0b920a0a9f54d8c18eebaaad362ed4ccaae8e36ba5606184e236e70",
+    "Notes":  "1.1.1.5：需要 MSL 0.13.6.3；校正手部、锤、盾牌贴图资源名与共享贴图所有权。"
 }
