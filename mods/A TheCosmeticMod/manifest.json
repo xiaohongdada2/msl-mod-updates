@@ -2,5 +2,5 @@
     "Version":  "3.7.2.1",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/A%20TheCosmeticMod/A%20TheCosmeticMod.sml",
     "Sha256":  "36f48d154f94dfa2e60d422d466eebbbf5e21091985eb3e9d6c87018737ff47f",
-    "Notes":  "3.7.2.1：需要 MSL 0.13.5.2；存档头像、角色语音、背包高清图标与敌人高清尸体改为局部声明，可与 Bule 0.2.22.10 安全组合。"
+    "Notes":  "3.7.2.1：需要 MSL 0.13.5.2 或更高版本；存档头像、角色语音、背包高清图标与敌人高清尸体使用局部声明，并已在 MSL 0.13.6.3 的 exact22 中与 Bule 0.2.22.15 完成写盘复读。"
 }
