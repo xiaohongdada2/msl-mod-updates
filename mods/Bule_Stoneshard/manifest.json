@@ -1,6 +1,6 @@
 {
-    "Version":  "0.2.22.15",
+    "Version":  "0.2.22.16",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Bule_Stoneshard/Bule_Stoneshard.sml",
-    "Sha256":  "49d1dece5bce1c1a6a094a36e5ec3b8a5c35f7c1afb2cd20dc7791a02a9f331c",
-    "Notes":  "0.2.22.15：需要 MSL 0.13.6.3；设置菜单、玩家 Create 与敌群生成改为可组合局部声明，并完成 exact22 写盘复读。"
+    "Sha256":  "8e630f2f9091f0e02c1f095e2ddd07b9e84570bce2aee309e78973f866b6c87e",
+    "Notes":  "0.2.22.16：修复奥蕾莉娅冲锋代码对不存在 scr_text 的悬空调用；已在 MSL 0.13.6.5 完成 exact22 写盘、锁定复读与独立验证。"
 }

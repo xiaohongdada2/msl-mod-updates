@@ -2,5 +2,5 @@
     "Version":  "0.1.0.1",
     "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/HardMode/HardMode.sml",
     "Sha256":  "5188f92e262fc456335214cfe9b98b820b4b199af1e89fe4f36fb795f06ccd9e",
-    "Notes":  "0.1.0.1：需要 MSL 0.13.6.3；敌群生成改为局部锚点前插入，可与 Bule_Stoneshard 0.2.22.15 组合。"
+    "Notes":  "0.1.0.1：需要 MSL 0.13.6.3 或更高版本；敌群生成改为局部锚点前插入，并已与 Bule_Stoneshard 0.2.22.16 完成组合验证。"
 }
