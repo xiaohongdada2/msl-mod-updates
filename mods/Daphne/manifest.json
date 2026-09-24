@@ -1,6 +1,7 @@
 {
-    "Version":  "1.1.1.5",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Daphne/Daphne.sml",
-    "Sha256":  "68cce0dbe0b920a0a9f54d8c18eebaaad362ed4ccaae8e36ba5606184e236e70",
-    "Notes":  "1.1.1.5：需要 MSL 0.13.6.3；校正手部、锤、盾牌贴图资源名与共享贴图所有权。"
+  "Version": "1.1.1.6",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-3daeaacf3cce-1.1.1.6-a7f76b67d0f4/package.sml",
+  "Sha256": "7ff28fb08090c22611fa68fb5e60ebb46993e9759849395493195e488f36c989",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。 本项目 main 原源码版本低于此前发布包，已按仓库负责人确认以 main 内容为准重新发布，不保证保留此前包的所有差异。",
+  "ModType": "Daphne.Daphne"
 }
