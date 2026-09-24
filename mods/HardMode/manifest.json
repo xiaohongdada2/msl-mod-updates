@@ -1,7 +1,0 @@
-{
-  "Version": "0.1.0.2",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-af87fe590f38-0.1.0.2-4abe527ff997/package.sml",
-  "Sha256": "2a74e34c55682b2f8019c8ff27f711b50fed6d734fa4eea92d0f587d295637bc",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
-  "ModType": "FearlessDeath.FearlessDeath"
-}
