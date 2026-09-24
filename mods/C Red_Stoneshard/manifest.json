@@ -1,6 +1,7 @@
 {
-    "Version":  "1.4.0.3",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/C%20Red_Stoneshard/C%20Red_Stoneshard.sml",
-    "Sha256":  "fb095db61f2fec6065dbf8033e8fca4549ed2a135cdd431ccfa46505334d0631",
-    "Notes":  "1.4.0.3：需要 MSL 0.13.6.3；共享技能参数改为局部声明，并完成正反顺序 validate-apply。"
+  "Version": "1.7.0.5",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-73309adbb479-1.7.0.5-358c4754a642/package.sml",
+  "Sha256": "ca5197711fa9124c44e021208319acfd530b900fb89361a974f4f4c51a705e44",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "Red_Stoneshard.Red_Stoneshard"
 }
