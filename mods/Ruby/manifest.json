@@ -1,6 +1,7 @@
 {
-    "Version":  "1.11.2.2",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Ruby/Ruby.sml",
-    "Sha256":  "90c0c7fcb07bac8e87a2db756d01b176c309d0ffffb68351dc6f713db4a4c8bf",
-    "Notes":  "1.11.2.2：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
+  "Version": "1.12.3.5",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-108040ac289a-1.12.3.5-a82d0d14f184/package.sml",
+  "Sha256": "30fb02019d9057162df3afb16ff037957a23c89a99200edc25350112ea338c77",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "Ruby.Ruby"
 }
