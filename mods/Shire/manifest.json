@@ -1,6 +1,7 @@
 {
-    "Version":  "1.4.8.9",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Shire/Shire.sml",
-    "Sha256":  "f4a86f13104503e0c993bbad1d1f4f6d5237e1809784f2613f371677062b72d3",
-    "Notes":  "1.4.8.9：需要 MSL 0.13.6.3；光标交互修改缩小为单行局部声明，可与 UI_Plus 2.3.0 组合。"
+  "Version": "1.5.1.4",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-d23f986a9541-1.5.1.4-2b8ccef74e6f/package.sml",
+  "Sha256": "04d50aed3fe69306d564982984e1dd3d070ae99e25cd3d31383dde9f8b8625e4",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "XiaEr.XiaEr"
 }
