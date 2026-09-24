@@ -1,6 +1,7 @@
 {
-    "Version":  "1.2.0.2",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/velin_and_celestines_weapon_package/velin_and_celestines_weapon_package.sml",
-    "Sha256":  "668be90ccc683aabb521226dade4b0563b60310a940ad9e2e78776a499f3ed95",
-    "Notes":  "1.2.0.2：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
+  "Version": "1.2.0.3",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-cc6e9c86c503-1.2.0.3-f227b51700bf/package.sml",
+  "Sha256": "8214bf0247d3bcce69738d91925a4b5d5e231a332f5196517b67930a1223f5d9",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。 本项目 main 原源码版本低于此前发布包，已按仓库负责人确认以 main 内容为准重新发布，不保证保留此前包的所有差异。",
+  "ModType": "velin_and_celestines_weapon_package.velin_and_celestines_weapon_package"
 }
