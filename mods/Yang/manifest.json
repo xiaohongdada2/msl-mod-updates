@@ -1,0 +1,7 @@
+{
+  "Version": "0.1.0.6",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-fef1114f2d1a-0.1.0.6-b7d1d115e503/package.sml",
+  "Sha256": "8308e80bdb415cbf1d57511b65a5935d4ea7d406a2cd4e7c9c3f7cf327357a11",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "Yang.Yang"
+}
