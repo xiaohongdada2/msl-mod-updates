@@ -1,0 +1,7 @@
+{
+  "Version": "0.10.0.18",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-eb274b0f1f2e-0.10.0.18-383163984daa/package.sml",
+  "Sha256": "f7663b976c64b80acafa9886324ab96a1a1de5e71c5016edbeb6153b0f690b35",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "ShardUIEnhanced.ShardUIEnhanced"
+}
