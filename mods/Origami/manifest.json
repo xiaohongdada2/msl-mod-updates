@@ -1,6 +1,7 @@
 {
-    "Version":  "1.2.0.2",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Origami/Origami.sml",
-    "Sha256":  "6ea7f4b65d1cecf4430b39fce7631eb7107cddc89e2a6ab78f9a60f04dcf57a1",
-    "Notes":  "1.2.0.2：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
+  "Version": "1.2.0.6",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-501073e4a4a7-1.2.0.6-e2980f45067f/package.sml",
+  "Sha256": "8347a366375b2b413181fb0ecabd23f4560756ba65250a6458c5cc1e570e6bde",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "Origami.Origami"
 }
