@@ -1,6 +1,7 @@
 {
-  "Version": "0.1.0.2",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Shadow_of_Another_World/Shadow_of_Another_World.sml",
-  "Sha256": "f62906b2981084f061cf1663d024008d2ecf46c07ae37f27428193f7c82a74fd",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.1，保留 SR-25、短吻鳄发射器、复合燃烧弹与 Bule 前置旧顺序。"
+  "Version": "0.1.1.2",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-f901d444e8d2-0.1.1.2-b5711848ecf4/package.sml",
+  "Sha256": "a4301c39b26278d6c02d4caca4ee05c5a756689d1908b200e5a53b1a1af1b7ce",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "Shadow_of_Another_World.Shadow_of_Another_World"
 }
