@@ -1,6 +1,7 @@
 {
-    "Version":  "1.3.0.3",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Falyn/Falyn.sml",
-    "Sha256":  "75fde79f6fb6d0c7a196c2485f777ccfb95a0fe8cd7ab2f87a0f1e0137b3eab9",
-    "Notes":  "1.3.0.3：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
+  "Version": "1.3.0.4",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-328b43ff6c19-1.3.0.4-a2e36abd1891/package.sml",
+  "Sha256": "1b6e32e126cfaa730a7401ac63a96719cc6b0829b6f8343bffd386a0740df56d",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。 本项目 main 原源码版本低于此前发布包，已按仓库负责人确认以 main 内容为准重新发布，不保证保留此前包的所有差异。",
+  "ModType": "Falyn.Falyn"
 }
