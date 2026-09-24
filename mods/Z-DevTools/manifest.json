@@ -1,6 +1,7 @@
 {
-    "Version":  "2.4.0.2",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/Z-DevTools/Z-DevTools.sml",
-    "Sha256":  "c4f061f42048cb8327f136c12549c10b6bbf9f31ab159ef9a9d81df9331641c1",
-    "Notes":  "声明式快速替换迁移：接入 MSL 0.13.5.1，完整记录控制台对象、命令函数、原版脚本替换与历史贴图。"
+  "Version": "2.8.0.6",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-8a2fcf819300-2.8.0.6-c2f6597133fd/package.sml",
+  "Sha256": "8e31dc2c4a097f0d8a622f868aa857d7217f1b6c9ff5f2816f9cbbb2245a13dd",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "ZDevTools.DevTools"
 }
