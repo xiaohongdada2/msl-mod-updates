@@ -1,6 +1,7 @@
 {
-    "Version":  "0.1.2.4",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/D%20Green_Stoneshard/D%20Green_Stoneshard.sml",
-    "Sha256":  "e74ebe941e8a9d5de59e6935cc2d1147e2fe1dba7f0d9ef2b52fcd9e74ca5003",
-    "Notes":  "0.1.2.4：保留并承接 X_AN94 的兼容 ID、入口与资源；进入 exact22 正式包集。"
+  "Version": "0.1.4.36",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-669d8902e332-0.1.4.36-f50aa203d706/package.sml",
+  "Sha256": "6a6cd9fe74c74ad634bb20b6e78481e779e1095313d5bfa0963caec8d2717be1",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "Green_Stoneshard.Green_Stoneshard"
 }
