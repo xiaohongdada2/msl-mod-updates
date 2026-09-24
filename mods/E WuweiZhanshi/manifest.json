@@ -1,6 +1,7 @@
 {
-  "Version": "0.1.0.1",
-  "DownloadUrl": "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/E%20WuweiZhanshi/E%20WuweiZhanshi.sml",
-  "Sha256": "c2948ea12899ad6608c37abaa5b93329bb769124fbdee2a63c86e9d1c28e2d79",
-  "Notes": "声明式快速替换迁移：接入 MSL 0.13.5.0、稳定 GML 首尾锚点与一键远端更新。"
+  "Version": "0.2.1.9",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-37d058fbf50b-0.2.1.9-88e1d9eeb6fd/package.sml",
+  "Sha256": "e051a6fc5ca0e89fe19078da48a76e5d552fe901212c3601e3fdac90f1514f4c",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "WuweiZhanshi.WuweiZhanshi"
 }
