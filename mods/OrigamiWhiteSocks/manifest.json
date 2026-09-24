@@ -1,6 +1,7 @@
 {
-    "Version":  "1.1.3",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/OrigamiWhiteSocks/OrigamiWhiteSocks.sml",
-    "Sha256":  "c688ca31276501f6f1cccb1a791b11b8d732469f0209677dfc83316dc4c1f454",
-    "Notes":  "1.1.3：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
+  "Version": "1.1.4",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-0a4e59612232-1.1.4-0c051851e734/package.sml",
+  "Sha256": "87c49d064616b80b50742bf08ef787a5dc89dc2972a9f8981ad0b0fe157679b5",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。 本项目 main 原源码版本低于此前发布包，已按仓库负责人确认以 main 内容为准重新发布，不保证保留此前包的所有差异。",
+  "ModType": "OrigamiWhiteSocks.OrigamiWhiteSocks"
 }
