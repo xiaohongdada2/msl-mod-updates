@@ -1,6 +1,7 @@
 {
-    "Version":  "0.1.0.5",
-    "DownloadUrl":  "https://raw.githubusercontent.com/xiaohongdada2/msl-mod-updates/main/mods/LinYuXia/LinYuXia.sml",
-    "Sha256":  "3fe3645c94f421d21d77c6b3d20760bbc7c944d84c3162c4e8e4d07c3bb4ced8",
-    "Notes":  "0.1.0.5：需要 MSL 0.13.6.3；完成声明式所有权迁移与 exact22 兼容复核。"
+  "Version": "0.1.0.7",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-ae54eb6548dd-0.1.0.7-e410f6cb3b3b/package.sml",
+  "Sha256": "1b5bdc47cf2b5d931b950a0e96cc7af35c04d8ecd012feca7d2510faf4d65d41",
+  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "ModType": "LinYuXia.LinYuXia"
 }
