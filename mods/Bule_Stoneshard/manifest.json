@@ -1,7 +1,7 @@
 {
-  "Version": "0.4.3.43",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-531f1c286e29-0.4.3.43-c1d4fa3bdfeb/package.sml",
-  "Sha256": "f6c9a0b4aafccb04c7eefae03cdfae23827e6d7bba5cb0d97803913ea8793596",
-  "Notes": "仅版本号 0.4.3.42 → 0.4.3.43，用于测试 HMSL 远端 Mod 更新；玩法源码未修改。",
+  "Version": "0.4.3.44",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-531f1c286e29-0.4.3.44-54d4055a980b/package.sml",
+  "Sha256": "a0cec4bf6ae945daaab90e6ea565e6c1ff1cba00d9aad54fce20e4a74723b11e",
+  "Notes": "Bule 0.4.3.44：雪嫣酱的瞥视存在时循环播放所提供的雨爱DJ音频，销毁或退出房间停止，多个实例不叠音。使用 HMSL 0.13.8.7 验证打包/音频读回/GML编译；实机听音待验证。下载后需重新安装生成WIN。",
   "ModType": "Bule_Stoneshard.Bule_Stoneshard"
 }
