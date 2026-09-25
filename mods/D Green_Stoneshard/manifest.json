@@ -1,7 +1,7 @@
 {
-  "Version": "0.1.4.36",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-669d8902e332-0.1.4.36-f50aa203d706/package.sml",
-  "Sha256": "6a6cd9fe74c74ad634bb20b6e78481e779e1095313d5bfa0963caec8d2717be1",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "0.1.4.38",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-669d8902e332-0.1.4.38-fc056de780c6/package.sml",
+  "Sha256": "532ae4e29030895a18ac0d3ce322f1770844a64a87a9a19beca53d28f65449ea",
+  "Notes": "绿色晶石 0.1.4.38：合入天穹狩猎防物理/魔法状态净化修复，保留现有射程与道具修复。支持 HMSL 远端更新；下载后需重新安装生成 WIN。已通过编译打包及包身份回读，尚未游戏实测。",
   "ModType": "Green_Stoneshard.Green_Stoneshard"
 }
