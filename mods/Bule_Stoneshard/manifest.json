@@ -1,7 +1,7 @@
 {
-  "Version": "0.4.3.45",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-531f1c286e29-0.4.3.45-4e74c71e53f3/Bule_Stoneshard.sml",
-  "Sha256": "ee55a26f44b1c0f1ddc3498f5ce6e5ae64283f33d0160912b53d440769980196",
-  "Notes": "Bule 0.4.3.45：修复在 RanXiaYi 角色下“疫病诅咒”无法对自身施放的问题。现在自身和友方作为单位目标可选，施放后仍获得“疫病赐福”；亡灵及非生命目标限制保留。使用 HMSL 0.13.8.7 打包并完成 SML 回读；游戏内验证待测试。下载后请在 MSL 中重新应用 Mod。",
+  "Version": "0.4.3.46",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-531f1c286e29-0.4.3.46-e7bf5ebaa1b2/Bule_Stoneshard.sml",
+  "Sha256": "56a497883a5a14a49d8fb29e7532a74777914cc656d8467a36bfcfd8719e3405",
+  "Notes": "Bule 0.4.3.46：修复“疫病赐福”根据迷醉增加暴击效果与奇观效果的结算。现在会正确读取玩家迷醉值；每1%迷醉提供的+0.5暴击效果与+0.5奇观效果保持不变。使用 HMSL 0.13.8.7 打包并由同版本 FileReader.Read 回读；游戏内验证待测试。下载后请在 HMSL 中重新应用 Mod。",
   "ModType": "Bule_Stoneshard.Bule_Stoneshard"
 }
