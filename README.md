@@ -16,7 +16,7 @@ mods/<Mod包名>/manifest.json
 | Mod 目录 | 版本 | 下载 |
 | --- | --- | --- |
 | A TheCosmeticMod | 3.8.1.7 | [下载 SML](https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-f804ec419c9b-3.8.1.7-a39f556e6704/package.sml) |
-| Bule_Stoneshard | 0.4.3.42 | [下载 SML](https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-531f1c286e29-0.4.3.42-c7c07efc3ec7/package.sml) |
+| Bule_Stoneshard | 0.4.3.45 | [下载 SML](https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-531f1c286e29-0.4.3.45-4e74c71e53f3/Bule_Stoneshard.sml) |
 | C Red_Stoneshard | 1.7.0.5 | [下载 SML](https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-73309adbb479-1.7.0.5-358c4754a642/package.sml) |
 | D Green_Stoneshard | 0.1.4.36 | [下载 SML](https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-669d8902e332-0.1.4.36-f50aa203d706/package.sml) |
 | Daphne | 1.1.1.6 | [下载 SML](https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-3daeaacf3cce-1.1.1.6-a7f76b67d0f4/package.sml) |
