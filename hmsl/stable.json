@@ -2,11 +2,11 @@
   "FormatVersion": 1,
   "Product": "HMSL",
   "Channel": "stable",
-  "Version": "0.13.8.7",
-  "PackageUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/hmsl-v0.13.8.7/HMSL-win-x64-0.13.8.7-self-update.zip",
-  "Sha256": "87bb7c3c10af1c9cb1b1670bca48cbc99c0adcea66dd5e8f57d0eb152d8c17b2",
+  "Version": "0.13.8.9",
+  "PackageUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/hmsl-v0.13.8.9/HMSL-win-x64-0.13.8.9-self-update.zip",
+  "Sha256": "c64ef073b9b6fbe33c6d9f5344bf81a06113d928bf5a407fd80c61f9f649115c",
   "EntryExecutable": "ModShardLauncher.exe",
   "CoreAssembly": "ModShardLauncher.dll",
-  "ReleaseNotesUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/tag/hmsl-v0.13.8.7",
+  "ReleaseNotesUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/tag/hmsl-v0.13.8.9",
   "Signature": ""
 }
