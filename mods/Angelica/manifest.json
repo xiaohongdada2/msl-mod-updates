@@ -1,7 +1,7 @@
 {
-  "Version": "0.1.0.23",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Angelica.sml",
-  "Sha256": "fbb26e3a0a5c56def720da4f99045ffff8c873ad076fba5c5c8fafa3e7560dec",
-  "Notes": "更新后请在启动器重新应用 Mod。",
+  "Version": "0.1.0.24",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/angelica-0.1.0.24/Angelica.sml",
+  "Sha256": "0194317d80ec3826400824fb7df4ec403bf84c1428ea48f3de03acd43c1e853a",
+  "Notes": "修复黑白双翼技能树在安装时找不到绀晶烬燃图标的问题。更新后请重新应用 Mod。",
   "ModType": "Angelica.Angelica"
 }
