@@ -1,7 +1,7 @@
 {
-  "Version": "0.4.3.115",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Bule.sml",
-  "Sha256": "c95ae86137cb22ff9b4bcedc6538e121bb2d4027c14517e06b1007b7659148e0",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "0.4.3.116",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Bule.sml",
+  "Sha256": "6244f5ce8cab6a3a0cc0f80b8a504c6fb61c7223591e2f37f296e7d5d474d918",
+  "Notes": "更新后请在启动器重新应用 Mod。",
   "ModType": "Bule_Stoneshard.Bule_Stoneshard"
 }

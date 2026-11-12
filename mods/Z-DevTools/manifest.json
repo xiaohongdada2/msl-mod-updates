@@ -1,7 +1,7 @@
 {
-  "Version": "2.8.1.1",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Console.sml",
-  "Sha256": "c58d01229fdb1fda4411546a28acd13e7acbf5a8068b153f14a0840155fa3c6b",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "2.8.1.3",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Console.sml",
+  "Sha256": "1eddc83705e5c7cef69cc47f2729539ff1e891158fb40f3b224bac34c3621ced",
+  "Notes": "更新后请在启动器重新应用 Mod。",
   "ModType": "ZDevTools.DevTools"
 }

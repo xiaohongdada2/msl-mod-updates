@@ -1,7 +1,7 @@
 {
-  "Version": "0.2.1.50",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Wuwei.sml",
-  "Sha256": "a1bc1b16874819877cbe6e266fdf0a176f3e3870d4253c4602edc023304bcedd",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "0.2.1.51",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Wuwei.sml",
+  "Sha256": "954d9d9c2429516c28539710832b6f7c58527eb53183cfa3733e9ff0a8c9ee76",
+  "Notes": "更新后请在启动器重新应用 Mod。",
   "ModType": "WuweiZhanshi.WuweiZhanshi"
 }

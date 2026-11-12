@@ -1,7 +1,7 @@
 {
-  "Version": "1.7.0.20",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Red.sml",
-  "Sha256": "12f1dd9487e231fbc2cc63f69fcc51262a92cceb3f1bacbe7bb5a3960939b7b5",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "1.7.0.21",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Red.sml",
+  "Sha256": "60f8e6586985b5e576a6a7105b262b5ef4a260699f6fb2cd5ccab78a372e63ac",
+  "Notes": "更新后请在启动器重新应用 Mod。",
   "ModType": "Red_Stoneshard.Red_Stoneshard"
 }

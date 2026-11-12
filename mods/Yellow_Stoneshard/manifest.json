@@ -1,7 +1,7 @@
 {
-  "Version": "0.4.2.14",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Yellow.sml",
-  "Sha256": "23f4c494920b052aa83ea6af31929aef8288a1f640bb9f300bacb6c6d416e905",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "0.4.2.15",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Yellow.sml",
+  "Sha256": "a70c168ed462241186f7565134f9ad506eef1d1e479b6ef5e1d160f14ad5e74c",
+  "Notes": "更新后请在启动器重新应用 Mod。",
   "ModType": "Yellow_Stoneshard.Yellow_Stoneshard"
 }

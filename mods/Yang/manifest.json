@@ -1,7 +1,7 @@
 {
-  "Version": "0.1.0.10",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Yang.sml",
-  "Sha256": "996b118fa0c6e63d07eb79722960aaf2450cc9acbd9c6c45144cf1f70d02f722",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "0.1.0.11",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Yang.sml",
+  "Sha256": "ee02e18d59742431cc07e0e6c9cdb9c0206f077b4bdafe4f42ac2dbf199ec905",
+  "Notes": "更新后请在启动器重新应用 Mod。",
   "ModType": "Yang.Yang"
 }
