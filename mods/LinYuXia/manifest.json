@@ -1,7 +1,7 @@
 {
-  "Version": "0.1.0.7",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-ae54eb6548dd-0.1.0.7-e410f6cb3b3b/package.sml",
-  "Sha256": "1b5bdc47cf2b5d931b950a0e96cc7af35c04d8ecd012feca7d2510faf4d65d41",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "0.1.0.12",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/LinYuXia.sml",
+  "Sha256": "bcc771b36adff6674bd950e4325cbabec87292502b1cb43422348e0376c815a8",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
   "ModType": "LinYuXia.LinYuXia"
 }

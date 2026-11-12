@@ -1,7 +1,7 @@
 {
-  "Version": "3.8.1.7",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-f804ec419c9b-3.8.1.7-a39f556e6704/package.sml",
-  "Sha256": "dcdd7f387b1687b793a44a4bd3b24e19a3c5a363e77c8b2780764a305eaf779d",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "3.8.1.13",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Cosmetic.sml",
+  "Sha256": "e9eb72abcd9daf5f349020add182ddfb243887ab703b233240bd02006e191d71",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
   "ModType": "TheCosmeticMod.TheCosmeticMod"
 }

@@ -1,0 +1,7 @@
+{
+  "Version": "0.6.3.7",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Sylvia.sml",
+  "Sha256": "9ce163e3e2f37d1ebc7c6d523697c44bcfc131cd9ba32c78a5d29e29f52d04c1",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "ModType": "Sylvia.Sylvia"
+}

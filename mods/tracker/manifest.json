@@ -1,7 +1,7 @@
 {
-  "Version": "1.4.4.5",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-7ae4495c83dd-1.4.4.5-0b7e6bfba366/package.sml",
-  "Sha256": "003dd54cf6a3cda7aaad3b06696342e01150411291aaa052fe2939ea96ff0743",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "1.4.4.10",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/tracker.sml",
+  "Sha256": "432f57f804638d1c56ddb6525fdd410b934084b7897751c80dde20815d56ce31",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
   "ModType": "tracker.tracker"
 }

@@ -1,7 +1,7 @@
 {
-  "Version": "4.2.4.3",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-74e390a16ab4-4.2.4.3-7204f962d998/package.sml",
-  "Sha256": "dc4fc61498c4376e4f42fa13b189fa176bcc8bdf7de982133ce942066e90075a",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "4.2.4.4",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Gift.sml",
+  "Sha256": "4f65938e118764ba4d371fb8d02652381bcaf8b78e86f0a0410f1050c4f10522",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
   "ModType": "TheGiftForYou.TheGiftForYou"
 }

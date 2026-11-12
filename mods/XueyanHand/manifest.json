@@ -1,0 +1,7 @@
+{
+  "Version": "0.5.0.1",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/XueyanHand.sml",
+  "Sha256": "30431f68c368e8c69e91c48e1ada424dc0d93fda7f2819f3bd4421f08f4d0415",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "ModType": "XueyanHand.XueyanHand"
+}

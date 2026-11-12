@@ -1,0 +1,7 @@
+{
+  "Version": "0.1.0.22",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Angelica.sml",
+  "Sha256": "1a97da91ab2c42270085106b518a64adc9fb2237c8663b93517ce15af576643d",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "ModType": "Angelica.Angelica"
+}

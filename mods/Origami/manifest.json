@@ -1,7 +1,7 @@
 {
-  "Version": "1.2.0.6",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-501073e4a4a7-1.2.0.6-e2980f45067f/package.sml",
-  "Sha256": "8347a366375b2b413181fb0ecabd23f4560756ba65250a6458c5cc1e570e6bde",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "1.2.0.8",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Origami.sml",
+  "Sha256": "8ec450ecdc429f56aaa89a8e5f7a5c33a180212f18ffcd2c6cdb2f31b8c0d91e",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
   "ModType": "Origami.Origami"
 }

@@ -1,7 +1,7 @@
 {
-  "Version": "1.5.1.4",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-d23f986a9541-1.5.1.4-2b8ccef74e6f/package.sml",
-  "Sha256": "04d50aed3fe69306d564982984e1dd3d070ae99e25cd3d31383dde9f8b8625e4",
-  "Notes": "基于 2026-09-25 main 构建，增加 HMSL 远端更新地址。更新仅替换 SML，游戏内容需重新安装。",
+  "Version": "1.5.1.7",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/Shire.sml",
+  "Sha256": "5cc9ce62d0eaae13813e2ed73b696eed97765cd77bdeaf68095cae2a3951d53d",
+  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
   "ModType": "XiaEr.XiaEr"
 }
