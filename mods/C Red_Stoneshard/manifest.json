@@ -1,7 +1,7 @@
 {
-  "Version": "1.7.0.21",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Red.sml",
-  "Sha256": "60f8e6586985b5e576a6a7105b262b5ef4a260699f6fb2cd5ccab78a372e63ac",
-  "Notes": "更新后请在启动器重新应用 Mod。",
+  "Version": "1.7.0.24",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261115-k308/C.Red_Stoneshard.sml",
+  "Sha256": "86cd321587cffd73878fee6c5949031da9715dcf812736d057d393aaa1ce25ab",
+  "Notes": "K308 2026-11-15。更新后请重新应用 Mod。",
   "ModType": "Red_Stoneshard.Red_Stoneshard"
 }

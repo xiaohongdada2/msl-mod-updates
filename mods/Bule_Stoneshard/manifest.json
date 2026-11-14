@@ -1,7 +1,7 @@
 {
-  "Version": "0.4.3.116",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Bule.sml",
-  "Sha256": "6244f5ce8cab6a3a0cc0f80b8a504c6fb61c7223591e2f37f296e7d5d474d918",
-  "Notes": "更新后请在启动器重新应用 Mod。",
+  "Version": "0.4.3.117",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261115-k308/Bule_Stoneshard.sml",
+  "Sha256": "5bd59c3885a9bb5e2aa5fbb05420ae743e58f784ebf455cccb0f2510a1e42959",
+  "Notes": "K308 2026-11-15。更新后请重新应用 Mod。",
   "ModType": "Bule_Stoneshard.Bule_Stoneshard"
 }

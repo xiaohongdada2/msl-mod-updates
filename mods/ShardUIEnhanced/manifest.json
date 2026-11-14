@@ -1,7 +1,7 @@
 {
-  "Version": "0.10.0.22",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261112/ShardUIEnhanced.sml",
-  "Sha256": "23136936b4dada8565340c8c73ab69aa1a2c8e8aef40b1407bef97a6535f1068",
-  "Notes": "启用本 Mod 的 HMSL 远端更新入口。更新后请在启动器重新应用 Mod。",
+  "Version": "0.10.0.24",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261115-k308/ShardUIEnhanced.sml",
+  "Sha256": "6bd3170336ef11a403b78e5eed383acf35ccb36e7d6a63a9631f7bd5ce590c21",
+  "Notes": "K308 2026-11-15。更新后请重新应用 Mod。",
   "ModType": "ShardUIEnhanced.ShardUIEnhanced"
 }

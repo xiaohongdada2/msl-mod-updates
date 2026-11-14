@@ -1,7 +1,7 @@
 {
-  "Version": "0.2.1.51",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Wuwei.sml",
-  "Sha256": "954d9d9c2429516c28539710832b6f7c58527eb53183cfa3733e9ff0a8c9ee76",
-  "Notes": "更新后请在启动器重新应用 Mod。",
+  "Version": "0.2.1.57",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261115-k308/E.wuweizhanshi.sml",
+  "Sha256": "31500e2bb0d0ebd3dc0245e9962015cb955886f63aaa4beb8f6de3630211a0ab",
+  "Notes": "K308 2026-11-15。更新后请重新应用 Mod。",
   "ModType": "WuweiZhanshi.WuweiZhanshi"
 }

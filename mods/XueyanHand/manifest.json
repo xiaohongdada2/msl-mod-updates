@@ -1,7 +1,7 @@
 {
-  "Version": "0.5.1.1",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/XueyanHand.sml",
-  "Sha256": "cccc6f7594f76189a9c4f073258dcb96845bee94a59a0755f941bea6f7056b7c",
-  "Notes": "更新后请在启动器重新应用 Mod。",
+  "Version": "0.5.1.5",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261115-k308/XueyanHand.sml",
+  "Sha256": "7d5f81835b28478d8be7e6eebff4d750e186e587f66b253bf38f4b2f04137eff",
+  "Notes": "K308 2026-11-15。更新后请重新应用 Mod。",
   "ModType": "XueyanHand.XueyanHand"
 }

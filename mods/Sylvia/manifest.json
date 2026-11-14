@@ -1,7 +1,7 @@
 {
-  "Version": "0.6.3.9",
-  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261113-metadata/Sylvia.sml",
-  "Sha256": "1f30bf0fb141a2c4ba6bb4cb83defd669fcb9efbfd5982da140679a3f430033a",
-  "Notes": "更新后请在启动器重新应用 Mod。",
+  "Version": "0.6.3.11",
+  "DownloadUrl": "https://github.com/xiaohongdada2/msl-mod-updates/releases/download/mod-pack-20261115-k308/Sylvia.sml",
+  "Sha256": "6b3ab2cfcaedf1c0f3ea1f88c3a6c165e1868a7dee85324ae6818af8db008d0c",
+  "Notes": "K308 2026-11-15。更新后请重新应用 Mod。",
   "ModType": "Sylvia.Sylvia"
 }
